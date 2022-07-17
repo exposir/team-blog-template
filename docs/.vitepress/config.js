@@ -6,8 +6,8 @@ export default {
             {
                 text: '目录',
                 items: [
-                    { text: '重学 Javascript', link: '../foo/' },
-                    { text: '重庆之旅', link: '../bar/' },
+                    { text: '重学 Javascript', link: '../learnJavascript/' },
+                    { text: '重庆之旅', link: '../chongqing/' },
                 ]
             }
         ]
