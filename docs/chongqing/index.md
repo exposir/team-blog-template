@@ -10,7 +10,7 @@
 
 ![](./static/IMG_3519.jpeg)
 
-![](./static/IMG_3575..jpeg)
+![](./static/IMG_3575.jpeg)
 
 ![](./static/IMG_3677.jpeg)
 
